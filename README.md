@@ -34,7 +34,7 @@ A full-stack Todo application built with Django and React, featuring real-time u
 - Material-UI
 - React Router
 - React-Toastify
-- WebSocket client
+  
 
 ## Prerequisites
 
@@ -61,7 +61,7 @@ Before setting up the project, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/abhijith7711/ToDo-app.git
+git clone https://github.com/abhijith7711/TODO_App.git
 cd todo-app
 ```
 
