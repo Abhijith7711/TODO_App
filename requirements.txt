@@ -1,0 +1,14 @@
+Django==5.2
+djangorestframework==3.16.0
+djangorestframework-simplejwt==5.5.0
+django-cors-headers==4.7.0
+channels==4.2.2
+channels-redis==4.1.0  # For channel layers (WebSocket)
+PyJWT==2.9.0
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+dj-database-url==2.1.0
+django-filter==23.5  # For search functionality
+redis==5.0.1  # Required for channels-redis
+asgiref==3.7.2  # ASGI interface
+daphne==4.0.0  # ASGI server for production 
